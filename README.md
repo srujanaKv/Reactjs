@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BizConnect – Business Networking & Referral Platform
 
 A modern, fully responsive landing page for a Business Networking & Referral Platform. Built as part of an internship assessment.
@@ -87,3 +88,6 @@ npm run preview
 - **Typography**: Playfair Display (headings) + DM Sans (body) for a refined yet readable look
 - **Layout**: CSS Grid + Flexbox — no frameworks
 - **Responsiveness**: Breakpoints at 1024px and 768px
+=======
+# Task
+>>>>>>> 857d6a7099e5ad6275114ca5485bd7169407f615
